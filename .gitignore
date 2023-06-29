@@ -1,0 +1,11 @@
+# files to ignore when committing
+
+# folders
+
+sssButWeWantToIgnoreIt/
+
+# file extensions
+
+*.asv 
+*.bak
+*.rst
